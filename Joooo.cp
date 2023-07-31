@@ -1,3 +1,9 @@
+/*
+                         // The First code of the traffic light \\
+
+    // Two traffic light and this code control them, such that if one is red the other would be green and so on \\
+*/
+
 #line 1 "C:/Users/Youssef Taha/Desktop/Embeded/Joooo.c"
 void output(){
  adcon1 = 6;
